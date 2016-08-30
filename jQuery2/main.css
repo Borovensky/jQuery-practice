@@ -1,0 +1,13 @@
+.active {
+	color: blue;
+}
+.page {
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+}
+.slide {
+	position: absolute;
+	top: 100px;
+	background: #ffffff;
+}
